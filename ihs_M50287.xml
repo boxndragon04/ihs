@@ -1,0 +1,2400 @@
+﻿<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-01-27T08:28:25" LogThreadId="371" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-01-27T08:28:39" LogThreadId="371" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-01-27T08:50:59" LogThreadId="371" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-01-27T08:50:59" LogThreadId="371" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-01-27T09:06:31" LogThreadId="386" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-01-27T09:06:45" LogThreadId="386" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-01-27T09:29:06" LogThreadId="386" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-01-27T09:29:06" LogThreadId="386" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-01-27T09:30:43" LogThreadId="360" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-01-27T09:30:57" LogThreadId="360" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-01-27T09:53:17" LogThreadId="360" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-01-27T09:53:17" LogThreadId="360" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-02-08T13:52:39" LogThreadId="40" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 2 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="2"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-02-08T14:06:03" LogThreadId="40" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 2 out of 2 cycles after 0d 0h 13m 24s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="2"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="2"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="13"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="24"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-08T14:08:25" LogThreadId="36" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-08T14:08:39" LogThreadId="36" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-08T14:08:53" LogThreadId="36" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-08T14:08:53" LogThreadId="36" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-02-10T09:20:08" LogThreadId="294" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 602 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="602"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-02-10T10:49:26" LogThreadId="294" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 0 out of 602 cycles after 0d 1h 29m 18s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="0"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="602"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="29"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="18"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-11T14:22:36" LogThreadId="13" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-11T14:22:50" LogThreadId="13" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-11T14:53:26" LogThreadId="13" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-11T14:53:26" LogThreadId="13" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-02-11T17:10:45" LogThreadId="53" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 602 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="602"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-02-13T23:45:22" LogThreadId="53" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 602 out of 602 cycles after 2d 6h 34m 37s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="602"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="602"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="2"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="6"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="34"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="37"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-14T07:11:28" LogThreadId="127" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-14T07:11:42" LogThreadId="127" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-14T07:42:38" LogThreadId="127" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-14T07:42:38" LogThreadId="127" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-14T07:45:48" LogThreadId="115" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-14T07:46:01" LogThreadId="115" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-14T08:08:21" LogThreadId="115" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-14T08:08:21" LogThreadId="115" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-14T08:10:55" LogThreadId="97" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-14T08:11:09" LogThreadId="97" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-14T08:33:29" LogThreadId="97" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-14T08:33:29" LogThreadId="97" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-14T08:49:50" LogThreadId="136" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-14T08:50:03" LogThreadId="136" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-14T09:12:23" LogThreadId="136" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-14T09:12:23" LogThreadId="136" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-02-14T13:18:28" LogThreadId="66" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 403 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="403"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-02-16T04:49:55" LogThreadId="66" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 403 out of 403 cycles after 1d 15h 31m 27s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="403"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="403"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="15"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="31"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="27"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-17T07:22:52" LogThreadId="289" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-17T07:23:06" LogThreadId="289" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-17T07:54:02" LogThreadId="289" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-17T07:54:02" LogThreadId="289" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-17T07:58:41" LogThreadId="270" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-17T07:58:54" LogThreadId="270" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-17T08:21:14" LogThreadId="270" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-17T08:21:14" LogThreadId="270" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-17T08:22:23" LogThreadId="326" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-17T08:22:36" LogThreadId="326" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-17T08:44:57" LogThreadId="326" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-17T08:44:57" LogThreadId="326" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-17T08:48:38" LogThreadId="263" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-17T08:48:51" LogThreadId="263" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-17T09:11:11" LogThreadId="263" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-17T09:11:11" LogThreadId="263" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-02-22T14:20:39" LogThreadId="58" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-02-23T18:17:03" LogThreadId="58" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 56m 23s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="56"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="23"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-24T07:37:55" LogThreadId="209" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-24T07:38:09" LogThreadId="209" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-24T08:09:04" LogThreadId="209" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-24T08:09:04" LogThreadId="209" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-24T10:44:04" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-24T10:44:18" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-24T11:06:20" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-24T11:06:20" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-24T11:12:06" LogThreadId="60" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-24T11:12:19" LogThreadId="60" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-24T11:34:39" LogThreadId="60" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-24T11:34:39" LogThreadId="60" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-24T11:45:09" LogThreadId="12" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-24T11:45:22" LogThreadId="12" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-24T12:07:42" LogThreadId="12" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-02-24T12:07:42" LogThreadId="12" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-02-24T18:22:58" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-02-25T22:20:14" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 57m 15s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="57"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="15"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-26T09:46:38" LogThreadId="159" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-26T09:46:51" LogThreadId="159" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-26T10:17:34" LogThreadId="159" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-26T10:17:34" LogThreadId="159" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-02-26T12:22:11" LogThreadId="146" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-02-27T16:26:01" LogThreadId="146" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 4h 3m 50s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="4"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="50"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-28T07:44:23" LogThreadId="254" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-28T07:44:36" LogThreadId="254" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-02-28T08:15:32" LogThreadId="254" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-02-28T08:15:32" LogThreadId="254" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-02T12:01:25" LogThreadId="65" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-02T12:01:39" LogThreadId="65" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-02T12:23:41" LogThreadId="65" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-02T12:23:41" LogThreadId="65" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-02T13:34:35" LogThreadId="61" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-02T13:34:49" LogThreadId="61" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-02T13:57:09" LogThreadId="61" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-02T13:57:09" LogThreadId="61" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-02T14:28:06" LogThreadId="68" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-02T14:28:19" LogThreadId="68" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-02T14:50:39" LogThreadId="68" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-02T14:50:39" LogThreadId="68" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-09T10:07:33" LogThreadId="1099" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-09T10:07:47" LogThreadId="1099" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-09T10:30:06" LogThreadId="1099" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-09T10:30:06" LogThreadId="1099" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-09T10:30:23" LogThreadId="1099" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-09T10:30:44" LogThreadId="1099" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-09T10:53:04" LogThreadId="1099" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-09T10:53:04" LogThreadId="1099" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-09T11:00:34" LogThreadId="862" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-09T11:00:47" LogThreadId="862" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-09T11:23:07" LogThreadId="862" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-09T11:23:07" LogThreadId="862" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-03-11T16:49:04" LogThreadId="749" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-12T14:23:54" LogThreadId="66" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-12T14:24:08" LogThreadId="66" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-12T14:54:44" LogThreadId="66" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-12T14:54:44" LogThreadId="66" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-03-14T10:21:20" LogThreadId="477" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-03-15T14:22:48" LogThreadId="477" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 4h 1m 28s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="4"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="28"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-15T15:20:15" LogThreadId="426" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-15T15:20:28" LogThreadId="426" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-15T15:51:24" LogThreadId="426" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-15T15:51:24" LogThreadId="426" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-16T12:03:27" LogThreadId="125" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-16T12:03:40" LogThreadId="125" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-16T12:26:00" LogThreadId="125" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-16T12:26:00" LogThreadId="125" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-16T12:43:23" LogThreadId="155" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-16T12:43:37" LogThreadId="155" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-16T13:05:57" LogThreadId="155" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-16T13:05:57" LogThreadId="155" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-16T13:57:39" LogThreadId="141" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-16T13:57:52" LogThreadId="141" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-16T14:20:12" LogThreadId="141" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-16T14:20:12" LogThreadId="141" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-03-16T15:15:29" LogThreadId="160" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-03-17T14:10:59" LogThreadId="160" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 0d 22h 55m 29s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="22"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="55"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="29"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-17T14:44:23" LogThreadId="94" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-17T14:44:36" LogThreadId="94" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-17T15:15:32" LogThreadId="94" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-17T15:15:32" LogThreadId="94" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-17T15:22:40" LogThreadId="479" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-17T15:22:53" LogThreadId="479" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-17T15:53:55" LogThreadId="479" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-17T15:53:55" LogThreadId="479" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-03-17T17:00:03" LogThreadId="44" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-03-18T20:13:16" LogThreadId="44" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 3h 13m 13s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="13"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="13"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-19T09:48:18" LogThreadId="269" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-19T09:48:32" LogThreadId="269" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-19T10:19:15" LogThreadId="269" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-19T10:19:15" LogThreadId="269" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-03-19T11:26:28" LogThreadId="243" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-03-20T15:32:12" LogThreadId="243" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 4h 5m 43s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="4"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="5"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="43"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-21T13:48:47" LogThreadId="378" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-21T13:49:00" LogThreadId="378" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-21T14:19:56" LogThreadId="378" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-21T14:19:56" LogThreadId="378" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-03-21T17:51:32" LogThreadId="421" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-03-22T21:48:25" LogThreadId="421" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 56m 53s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="56"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="53"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-23T08:24:43" LogThreadId="384" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-23T08:24:57" LogThreadId="384" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-23T08:55:52" LogThreadId="384" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-23T08:55:52" LogThreadId="384" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-23T11:05:50" LogThreadId="134" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-23T11:06:04" LogThreadId="134" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-23T11:28:24" LogThreadId="134" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-23T11:28:24" LogThreadId="134" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-23T12:28:51" LogThreadId="114" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-23T12:29:05" LogThreadId="114" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-23T12:51:25" LogThreadId="114" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-23T12:51:25" LogThreadId="114" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-23T14:36:20" LogThreadId="204" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-23T14:36:34" LogThreadId="204" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-23T14:58:54" LogThreadId="204" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-23T14:58:54" LogThreadId="204" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-03-23T18:24:53" LogThreadId="239" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 318 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="318"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-03-24T23:48:15" LogThreadId="239" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 318 out of 318 cycles after 1d 5h 23m 22s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="318"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="318"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="5"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="23"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="22"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-25T11:51:13" LogThreadId="81" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-25T11:51:26" LogThreadId="81" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-25T12:22:22" LogThreadId="81" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-25T12:22:22" LogThreadId="81" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-03-25T17:09:58" LogThreadId="140" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-03-26T21:02:38" LogThreadId="140" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 52m 40s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="52"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="40"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-27T09:26:39" LogThreadId="455" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-27T09:26:53" LogThreadId="455" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-27T09:57:49" LogThreadId="455" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-27T09:57:49" LogThreadId="455" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-03-27T12:44:15" LogThreadId="179" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-03-29T01:25:48" LogThreadId="179" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 12h 41m 33s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="12"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="41"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="33"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-30T08:39:39" LogThreadId="455" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-30T08:39:52" LogThreadId="455" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-30T09:10:48" LogThreadId="455" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-03-30T09:10:48" LogThreadId="455" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-30T09:55:00" LogThreadId="140" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-30T09:55:13" LogThreadId="140" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-30T10:17:33" LogThreadId="140" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-30T10:17:33" LogThreadId="140" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-30T10:23:45" LogThreadId="114" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-30T10:23:59" LogThreadId="114" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-30T10:46:19" LogThreadId="114" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-30T10:46:19" LogThreadId="114" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-30T11:24:09" LogThreadId="97" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-30T11:24:22" LogThreadId="97" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-03-30T11:46:42" LogThreadId="97" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-03-30T11:46:42" LogThreadId="97" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-03-30T19:11:09" LogThreadId="410" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-04-01T11:11:17" LogThreadId="410" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 16h 0m 8s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="16"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="8"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-01T11:34:19" LogThreadId="371" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-01T11:34:33" LogThreadId="371" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-01T12:05:28" LogThreadId="371" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-01T12:05:28" LogThreadId="371" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-04-02T16:17:08" LogThreadId="216" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-04-03T15:06:50" LogThreadId="216" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 0d 22h 49m 42s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="22"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="49"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="42"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-03T15:31:39" LogThreadId="239" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-03T15:31:53" LogThreadId="239" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-03T16:02:49" LogThreadId="239" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-03T16:02:49" LogThreadId="239" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-06T11:05:54" LogThreadId="140" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-06T11:06:08" LogThreadId="140" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-06T11:28:28" LogThreadId="140" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-06T11:28:28" LogThreadId="140" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-06T12:39:25" LogThreadId="184" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-06T12:39:39" LogThreadId="184" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-06T13:01:59" LogThreadId="184" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-06T13:01:59" LogThreadId="184" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-06T13:19:50" LogThreadId="147" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-06T13:20:03" LogThreadId="147" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-06T13:42:23" LogThreadId="147" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-06T13:42:23" LogThreadId="147" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-04-09T16:53:01" LogThreadId="88" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 318 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="318"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-04-10T10:10:36" LogThreadId="88" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 318 out of 318 cycles after 0d 17h 17m 34s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="318"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="318"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="17"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="17"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="34"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-13T09:37:10" LogThreadId="592" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-13T09:37:24" LogThreadId="592" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-13T10:08:19" LogThreadId="592" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-13T10:08:19" LogThreadId="592" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-13T11:12:14" LogThreadId="582" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-13T11:12:27" LogThreadId="582" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-13T11:34:47" LogThreadId="582" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-13T11:34:47" LogThreadId="582" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-13T11:53:25" LogThreadId="617" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-13T11:53:38" LogThreadId="617" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-13T12:15:58" LogThreadId="617" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-13T12:15:58" LogThreadId="617" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-13T12:23:46" LogThreadId="621" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-13T12:23:59" LogThreadId="621" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-13T12:46:19" LogThreadId="621" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-13T12:46:19" LogThreadId="621" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-04-15T17:59:24" LogThreadId="113" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-04-16T21:39:35" LogThreadId="113" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 40m 10s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="40"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="10"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-17T10:00:42" LogThreadId="30" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-17T10:00:56" LogThreadId="30" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-17T10:31:32" LogThreadId="30" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-17T10:31:32" LogThreadId="30" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-04-17T14:19:00" LogThreadId="53" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-04-18T17:53:34" LogThreadId="53" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 34m 33s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="34"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="33"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-20T10:01:56" LogThreadId="511" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-20T10:02:09" LogThreadId="511" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-20T10:33:05" LogThreadId="511" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-20T10:33:05" LogThreadId="511" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-20T10:36:19" LogThreadId="492" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-20T10:36:32" LogThreadId="492" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-20T10:58:52" LogThreadId="492" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-20T10:58:52" LogThreadId="492" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-20T10:59:24" LogThreadId="466" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-20T10:59:37" LogThreadId="466" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-20T11:21:57" LogThreadId="466" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-20T11:21:57" LogThreadId="466" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-20T11:23:23" LogThreadId="420" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-20T11:23:37" LogThreadId="420" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-20T11:45:57" LogThreadId="420" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-20T11:45:57" LogThreadId="420" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-04-21T14:46:34" LogThreadId="297" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-04-22T18:19:12" LogThreadId="297" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 3h 32m 37s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="32"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="37"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-23T09:56:43" LogThreadId="403" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-23T09:56:56" LogThreadId="403" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-23T10:27:39" LogThreadId="403" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-23T10:27:39" LogThreadId="403" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-27T09:19:17" LogThreadId="837" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-27T09:19:31" LogThreadId="837" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-27T09:50:32" LogThreadId="837" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-27T09:50:32" LogThreadId="837" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-27T10:56:22" LogThreadId="805" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-27T10:56:36" LogThreadId="805" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-27T11:18:56" LogThreadId="805" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-27T11:18:56" LogThreadId="805" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-27T11:31:40" LogThreadId="718" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-27T11:31:53" LogThreadId="718" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-27T11:54:13" LogThreadId="718" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-27T11:54:13" LogThreadId="718" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-27T12:04:16" LogThreadId="732" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-27T12:04:29" LogThreadId="732" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-27T12:26:49" LogThreadId="732" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-04-27T12:26:49" LogThreadId="732" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-04-27T14:53:19" LogThreadId="51" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-04-28T18:31:50" LogThreadId="51" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 38m 31s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="38"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="31"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-29T09:22:58" LogThreadId="287" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-29T09:23:11" LogThreadId="287" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-04-29T09:53:54" LogThreadId="287" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-04-29T09:53:54" LogThreadId="287" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-04-29T16:03:28" LogThreadId="340" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-04-30T19:51:42" LogThreadId="340" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 48m 14s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="48"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="14"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-01T08:02:05" LogThreadId="89" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-01T08:02:19" LogThreadId="89" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-01T08:33:01" LogThreadId="89" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-01T08:33:01" LogThreadId="89" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-05-01T12:13:10" LogThreadId="308" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-05-02T16:06:42" LogThreadId="308" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 53m 31s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="53"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="31"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-03T12:18:19" LogThreadId="217" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-03T12:18:32" LogThreadId="217" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-03T12:49:14" LogThreadId="217" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-03T12:49:14" LogThreadId="217" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-04T10:22:24" LogThreadId="470" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-04T10:22:37" LogThreadId="470" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-04T10:44:48" LogThreadId="470" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-04T10:44:48" LogThreadId="470" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-04T10:49:58" LogThreadId="485" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-04T10:50:11" LogThreadId="485" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-04T11:12:22" LogThreadId="485" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-04T11:12:22" LogThreadId="485" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-04T11:28:55" LogThreadId="427" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-04T11:29:09" LogThreadId="427" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-04T11:51:20" LogThreadId="427" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-04T11:51:20" LogThreadId="427" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-05-06T18:45:27" LogThreadId="882" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-05-07T22:41:54" LogThreadId="882" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 56m 26s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="56"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="26"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-08T08:46:54" LogThreadId="751" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-08T08:47:07" LogThreadId="751" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-08T09:17:50" LogThreadId="751" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-08T09:17:50" LogThreadId="751" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-05-08T15:57:54" LogThreadId="470" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-05-09T19:54:12" LogThreadId="470" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 56m 18s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="56"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="18"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-11T09:00:16" LogThreadId="449" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-11T09:00:30" LogThreadId="449" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-11T09:31:12" LogThreadId="449" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-11T09:31:12" LogThreadId="449" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-11T10:17:04" LogThreadId="62" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-11T10:17:17" LogThreadId="62" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-11T10:39:29" LogThreadId="62" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-11T10:39:29" LogThreadId="62" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-11T10:49:47" LogThreadId="290" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-11T10:50:00" LogThreadId="290" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-11T11:12:12" LogThreadId="290" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-11T11:12:12" LogThreadId="290" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-11T13:15:05" LogThreadId="220" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-11T13:15:19" LogThreadId="220" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-11T13:37:30" LogThreadId="220" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-11T13:37:30" LogThreadId="220" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-05-11T20:38:10" LogThreadId="37" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-05-12T19:20:03" LogThreadId="37" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 0d 22h 41m 53s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="22"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="41"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="53"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-13T10:39:19" LogThreadId="307" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-13T10:39:32" LogThreadId="307" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-13T11:10:15" LogThreadId="307" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-13T11:10:15" LogThreadId="307" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-18T10:10:34" LogThreadId="735" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-18T10:10:48" LogThreadId="735" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-18T10:32:50" LogThreadId="735" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-18T10:32:50" LogThreadId="735" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-18T10:43:44" LogThreadId="678" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-18T10:43:57" LogThreadId="678" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-18T11:06:17" LogThreadId="678" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-18T11:06:17" LogThreadId="678" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-18T11:08:09" LogThreadId="547" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-18T11:08:23" LogThreadId="547" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-18T11:30:42" LogThreadId="547" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-18T11:30:42" LogThreadId="547" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-05-22T15:04:45" LogThreadId="1121" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-05-24T01:28:59" LogThreadId="1121" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 10h 24m 14s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="10"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="24"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="14"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-26T10:15:30" LogThreadId="1571" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-26T10:15:44" LogThreadId="1571" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-26T10:46:39" LogThreadId="1571" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-26T10:46:39" LogThreadId="1571" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-26T13:19:00" LogThreadId="1534" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-26T13:19:13" LogThreadId="1534" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-26T13:41:33" LogThreadId="1534" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-26T13:41:33" LogThreadId="1534" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-26T14:07:10" LogThreadId="1508" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-26T14:07:23" LogThreadId="1508" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-26T14:29:44" LogThreadId="1508" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-26T14:29:44" LogThreadId="1508" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-26T14:46:34" LogThreadId="1476" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-26T14:46:47" LogThreadId="1476" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-26T15:09:07" LogThreadId="1476" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-05-26T15:09:07" LogThreadId="1476" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-05-26T18:36:54" LogThreadId="81" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-05-27T22:08:25" LogThreadId="81" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 3h 31m 31s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="31"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="31"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-28T09:45:37" LogThreadId="220" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-28T09:45:50" LogThreadId="220" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-05-28T10:16:33" LogThreadId="220" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-05-28T10:16:33" LogThreadId="220" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-05-28T17:44:44" LogThreadId="283" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-05-29T21:28:12" LogThreadId="283" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 43m 28s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="43"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="28"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-01T07:33:34" LogThreadId="606" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-01T07:33:47" LogThreadId="606" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-01T08:04:30" LogThreadId="606" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-01T08:04:30" LogThreadId="606" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-01T08:45:26" LogThreadId="632" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-01T08:45:39" LogThreadId="632" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-01T09:07:50" LogThreadId="632" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-01T09:07:50" LogThreadId="632" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-01T09:20:43" LogThreadId="544" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-01T09:20:56" LogThreadId="544" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-01T09:43:07" LogThreadId="544" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-01T09:43:07" LogThreadId="544" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-01T09:50:38" LogThreadId="528" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-01T09:50:51" LogThreadId="528" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-01T10:13:02" LogThreadId="528" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-01T10:13:02" LogThreadId="528" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-06-01T17:42:21" LogThreadId="50" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-06-02T21:16:53" LogThreadId="50" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 34m 31s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="34"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="31"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-03T10:52:06" LogThreadId="206" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-03T10:52:20" LogThreadId="206" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-03T11:23:16" LogThreadId="206" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-03T11:23:16" LogThreadId="206" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-06-04T12:11:51" LogThreadId="216" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-06-05T17:31:26" LogThreadId="216" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 5h 19m 35s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="5"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="19"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="35"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-08T09:40:49" LogThreadId="576" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-08T09:41:03" LogThreadId="576" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-08T10:11:58" LogThreadId="576" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-08T10:11:58" LogThreadId="576" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-08T11:30:38" LogThreadId="437" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-08T11:30:51" LogThreadId="437" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-08T11:53:11" LogThreadId="437" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-08T11:53:11" LogThreadId="437" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-08T12:03:57" LogThreadId="522" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-08T12:04:11" LogThreadId="522" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-08T12:26:31" LogThreadId="522" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-08T12:26:31" LogThreadId="522" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-08T13:11:02" LogThreadId="477" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-08T13:11:15" LogThreadId="477" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-08T13:33:35" LogThreadId="477" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-08T13:33:35" LogThreadId="477" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-06-08T14:21:21" LogThreadId="478" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-06-09T19:51:08" LogThreadId="478" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 5h 29m 47s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="5"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="29"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="47"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-10T09:53:02" LogThreadId="42" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-10T09:53:16" LogThreadId="42" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-10T10:24:21" LogThreadId="42" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-10T10:24:21" LogThreadId="42" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-06-11T17:37:06" LogThreadId="12" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-06-12T21:15:35" LogThreadId="12" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 38m 28s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="38"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="28"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-15T09:28:31" LogThreadId="608" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-15T09:28:45" LogThreadId="608" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-15T09:59:41" LogThreadId="608" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-15T09:59:41" LogThreadId="608" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-15T10:04:56" LogThreadId="570" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-15T10:05:09" LogThreadId="570" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-15T10:27:29" LogThreadId="570" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-15T10:27:29" LogThreadId="570" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-15T10:28:49" LogThreadId="614" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-15T10:29:03" LogThreadId="614" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-15T10:51:23" LogThreadId="614" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-15T10:51:23" LogThreadId="614" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-15T11:39:19" LogThreadId="594" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-15T11:39:33" LogThreadId="594" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-15T12:01:53" LogThreadId="594" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-15T12:01:53" LogThreadId="594" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-06-17T18:21:18" LogThreadId="63" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 318 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="318"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-06-18T12:40:56" LogThreadId="63" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 318 out of 318 cycles after 0d 18h 19m 38s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="318"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="318"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="18"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="19"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="38"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-18T16:04:59" LogThreadId="132" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-18T16:05:13" LogThreadId="132" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-18T16:35:55" LogThreadId="132" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-18T16:35:55" LogThreadId="132" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-06-19T16:46:34" LogThreadId="247" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-06-21T07:49:24" LogThreadId="247" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 15h 2m 49s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="15"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="2"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="49"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-22T10:17:57" LogThreadId="271" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-22T10:18:10" LogThreadId="271" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-22T10:49:06" LogThreadId="271" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-22T10:49:06" LogThreadId="271" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-22T11:44:01" LogThreadId="296" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-22T11:44:15" LogThreadId="296" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-22T12:06:35" LogThreadId="296" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-22T12:06:35" LogThreadId="296" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-22T12:21:04" LogThreadId="284" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-22T12:21:17" LogThreadId="284" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-22T12:43:37" LogThreadId="284" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-22T12:43:37" LogThreadId="284" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-22T12:49:04" LogThreadId="227" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-22T12:49:17" LogThreadId="227" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-22T13:11:37" LogThreadId="227" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-22T13:11:37" LogThreadId="227" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-06-23T15:47:49" LogThreadId="59" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-06-25T05:36:41" LogThreadId="59" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 13h 48m 52s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="13"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="48"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="52"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-25T09:41:19" LogThreadId="60" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-25T09:41:33" LogThreadId="60" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-25T10:12:29" LogThreadId="60" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-25T10:12:29" LogThreadId="60" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-06-25T16:17:31" LogThreadId="144" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 318 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="318"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-06-26T22:40:00" LogThreadId="144" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 318 out of 318 cycles after 1d 6h 22m 29s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="318"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="318"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="6"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="22"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="29"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-29T08:59:45" LogThreadId="582" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-29T08:59:58" LogThreadId="582" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-29T09:30:54" LogThreadId="582" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-06-29T09:30:54" LogThreadId="582" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-29T09:37:29" LogThreadId="562" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-29T09:37:43" LogThreadId="562" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-29T10:00:03" LogThreadId="562" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-29T10:00:03" LogThreadId="562" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-29T10:02:02" LogThreadId="567" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-29T10:02:15" LogThreadId="567" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-29T10:24:35" LogThreadId="567" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-29T10:24:35" LogThreadId="567" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-29T10:27:32" LogThreadId="623" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-29T10:27:45" LogThreadId="623" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-06-29T10:50:05" LogThreadId="623" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-06-29T10:50:05" LogThreadId="623" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-06T09:54:31" LogThreadId="37" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-06T09:54:45" LogThreadId="37" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-06T10:16:47" LogThreadId="37" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-06T10:16:47" LogThreadId="37" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-06T11:01:59" LogThreadId="20" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-06T11:02:12" LogThreadId="20" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-06T11:24:32" LogThreadId="20" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-06T11:24:32" LogThreadId="20" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-06T11:26:48" LogThreadId="67" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-06T11:27:01" LogThreadId="67" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-06T11:49:21" LogThreadId="67" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-06T11:49:21" LogThreadId="67" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-06T16:44:05" LogThreadId="90" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 316 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="316"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-07-07T11:22:32" LogThreadId="90" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 316 out of 316 cycles after 0d 18h 38m 27s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="316"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="316"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="18"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="38"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="27"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-07T11:45:40" LogThreadId="93" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-07T11:45:54" LogThreadId="93" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-07T12:16:50" LogThreadId="93" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-07T12:16:50" LogThreadId="93" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-08T18:15:46" LogThreadId="8" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 316 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="316"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-07-09T12:39:17" LogThreadId="8" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 316 out of 316 cycles after 0d 18h 23m 31s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="316"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="316"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="18"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="23"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="31"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-09T16:09:28" LogThreadId="15" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-09T16:09:41" LogThreadId="15" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-09T16:40:37" LogThreadId="15" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-09T16:40:37" LogThreadId="15" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-09T18:57:57" LogThreadId="80" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 316 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="316"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-07-10T13:18:15" LogThreadId="80" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 316 out of 316 cycles after 0d 18h 20m 17s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="316"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="316"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="18"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="20"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="17"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-10T14:18:44" LogThreadId="87" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-10T14:18:58" LogThreadId="87" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-10T14:49:54" LogThreadId="87" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-10T14:49:54" LogThreadId="87" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-10T17:44:25" LogThreadId="65" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-07-12T05:51:51" LogThreadId="65" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 12h 7m 26s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="12"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="7"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="26"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-13T09:21:13" LogThreadId="312" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-13T09:21:26" LogThreadId="312" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-13T09:52:22" LogThreadId="312" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-13T09:52:22" LogThreadId="312" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-13T13:15:38" LogThreadId="296" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-13T13:15:52" LogThreadId="296" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-13T13:38:12" LogThreadId="296" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-13T13:38:12" LogThreadId="296" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-13T13:46:42" LogThreadId="251" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-13T13:46:55" LogThreadId="251" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-13T14:09:15" LogThreadId="251" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-13T14:09:15" LogThreadId="251" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-13T14:17:51" LogThreadId="256" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-13T14:18:04" LogThreadId="256" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-13T14:40:24" LogThreadId="256" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-13T14:40:24" LogThreadId="256" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-16T16:53:32" LogThreadId="636" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 316 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="316"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-07-17T11:14:42" LogThreadId="636" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 316 out of 316 cycles after 0d 18h 21m 10s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="316"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="316"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="18"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="21"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="10"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-19T11:18:36" LogThreadId="244" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-19T11:18:49" LogThreadId="244" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-19T11:49:45" LogThreadId="244" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-19T11:49:45" LogThreadId="244" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-20T07:51:58" LogThreadId="60" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-20T07:52:12" LogThreadId="60" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-20T08:14:15" LogThreadId="60" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-20T08:14:15" LogThreadId="60" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-20T08:18:03" LogThreadId="27" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-20T08:18:17" LogThreadId="27" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-20T08:40:37" LogThreadId="27" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-20T08:40:37" LogThreadId="27" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-20T08:58:51" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-20T08:59:04" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-20T09:21:24" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-20T09:21:24" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-20T16:37:11" LogThreadId="92" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-07-21T15:20:16" LogThreadId="92" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 0d 22h 43m 5s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="22"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="43"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="5"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-21T15:53:22" LogThreadId="111" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-21T15:53:35" LogThreadId="111" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-21T16:24:18" LogThreadId="111" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-21T16:24:18" LogThreadId="111" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-21T17:16:51" LogThreadId="37" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 318 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="318"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-07-22T11:32:09" LogThreadId="37" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 318 out of 318 cycles after 0d 18h 15m 17s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="318"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="318"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="18"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="15"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="17"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-22T11:47:05" LogThreadId="34" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-22T11:47:19" LogThreadId="34" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-22T12:18:09" LogThreadId="34" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-22T12:18:09" LogThreadId="34" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-22T13:56:33" LogThreadId="27" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-07-22T17:42:15" LogThreadId="27" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 41 out of 418 cycles after 0d 3h 45m 42s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="41"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="0"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="45"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="42"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-22T17:43:06" LogThreadId="27" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-22T17:43:20" LogThreadId="27" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-22T18:13:53" LogThreadId="27" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-22T18:13:53" LogThreadId="27" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-22T19:06:07" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-07-23T22:37:20" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 3h 31m 12s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="31"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="12"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-24T08:32:47" LogThreadId="221" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-24T08:33:00" LogThreadId="221" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-24T09:03:43" LogThreadId="221" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-24T09:03:43" LogThreadId="221" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-24T16:14:49" LogThreadId="310" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-07-25T19:54:17" LogThreadId="310" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 39m 27s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="39"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="27"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-26T15:15:21" LogThreadId="62" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-26T15:15:34" LogThreadId="62" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-26T15:46:17" LogThreadId="62" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-26T15:46:17" LogThreadId="62" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-27T10:12:11" LogThreadId="394" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-27T10:12:24" LogThreadId="394" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-27T10:34:36" LogThreadId="394" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-27T10:34:36" LogThreadId="394" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-27T11:17:35" LogThreadId="471" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-27T11:17:49" LogThreadId="471" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-27T11:40:00" LogThreadId="471" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-27T11:40:00" LogThreadId="471" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-27T11:50:21" LogThreadId="478" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-27T11:50:34" LogThreadId="478" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-27T12:12:45" LogThreadId="478" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-07-27T12:12:45" LogThreadId="478" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-27T15:03:03" LogThreadId="11" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-07-28T19:08:36" LogThreadId="11" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 4h 5m 32s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="4"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="5"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="32"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-28T19:09:55" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-28T19:10:08" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-28T19:41:04" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-28T19:41:04" LogThreadId="64" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-28T20:23:08" LogThreadId="79" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 418 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="418"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-07-30T00:09:46" LogThreadId="79" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 418 out of 418 cycles after 1d 3h 46m 38s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="418"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="418"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="46"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="38"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-30T09:45:22" LogThreadId="182" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-30T09:45:35" LogThreadId="182" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-07-30T10:16:18" LogThreadId="182" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-07-30T10:16:18" LogThreadId="182" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-07-31T18:56:03" LogThreadId="30" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-08-02T11:17:01" LogThreadId="30" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 16h 20m 57s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="16"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="20"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="57"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-08-03T07:52:00" LogThreadId="214" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-03T07:52:13" LogThreadId="214" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-03T08:23:09" LogThreadId="214" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-08-03T08:23:09" LogThreadId="214" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-08-03T09:47:18" LogThreadId="312" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-03T09:47:32" LogThreadId="312" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-03T10:09:52" LogThreadId="312" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-08-03T10:09:52" LogThreadId="312" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-08-03T10:11:37" LogThreadId="316" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-03T10:11:51" LogThreadId="316" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-03T10:34:11" LogThreadId="316" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-08-03T10:34:11" LogThreadId="316" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-08-03T10:45:27" LogThreadId="424" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-03T10:45:40" LogThreadId="424" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-03T11:08:00" LogThreadId="424" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-08-03T11:08:00" LogThreadId="424" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-08-10T09:34:36" LogThreadId="767" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-10T09:34:49" LogThreadId="767" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-10T09:56:51" LogThreadId="767" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-08-10T09:56:51" LogThreadId="767" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-08-10T10:01:45" LogThreadId="767" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-10T10:01:58" LogThreadId="767" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-10T10:24:18" LogThreadId="767" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-08-10T10:24:18" LogThreadId="767" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-08-10T10:36:38" LogThreadId="781" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-10T10:36:51" LogThreadId="781" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-10T10:59:11" LogThreadId="781" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Maintenance Wash" LogTime="2020-08-10T10:59:11" LogThreadId="781" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Maintenance Wash Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandStarted" LogTime="2020-08-11T18:55:34" LogThreadId="98" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Run Started with 398 Cycles."/>
+  <Metric Name="NumCycles" Type="xs:int" Value="398"/>
+</Metrics>
+<Metrics LogId="Illumina.Instrument.Bolt.Logic.Sequencing.RunRecipeCommand.RunRecipeCommandCompletedCycles" LogTime="2020-08-12T22:27:26" LogThreadId="98" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="RunRecipeCommand completed 398 out of 398 cycles after 1d 3h 31m 51s with 0 camera retries."/>
+  <Metric Name="NumberOfCyclesCompleted" Type="xs:int" Value="398"/>
+  <Metric Name="TotalCycles" Type="xs:int" Value="398"/>
+  <Metric Name="ExecutionTimeDays" Type="xs:int" Value="1"/>
+  <Metric Name="ExecutionTimeHours" Type="xs:int" Value="3"/>
+  <Metric Name="ExecutionTimeMinutes" Type="xs:int" Value="31"/>
+  <Metric Name="ExecutionTimeSeconds" Type="xs:int" Value="51"/>
+  <Metric Name="CameraRetries" Type="xs:int" Value="0"/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-08-14T09:29:38" LogThreadId="434" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-14T09:29:51" LogThreadId="434" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Started."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.PostRun Wash" LogTime="2020-08-14T10:00:34" LogThreadId="434" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="PostRun Wash Protocol Completed."/>
+</Metrics>
+<Metrics LogId="Illumina.MiSeqControlSoftware.WashCommand.Post Run Wash" LogTime="2020-08-14T10:00:34" LogThreadId="434" LogSeverity="INF">
+  <Metric Name="LogText" Type="xs:string" Value="Post Run Wash Completed."/>
+</Metrics>
